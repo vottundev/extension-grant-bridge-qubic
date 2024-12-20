@@ -1,78 +1,73 @@
 # Extension Grant – Bridge
 
-## Overview
-This document outlines Vottun’s contributions to the Qubic Foundation’s Bridge project, detailing the additional work undertaken beyond the initial project scope, the challenges encountered, and the solutions implemented. These efforts have significantly strengthened the Qubic ecosystem’s technical foundation and created a path for future innovations.
+## Dear Qubic Foundation Team,
+
+We are pleased to present this request for a grant, emphasizing the significant additional work and contributions made by Vottun during the development of the Bridge project. These efforts, while beyond the initial project scope, have established a robust technical foundation and paved the way for future innovations within the Qubic ecosystem.
 
 ---
 
 ## Challenges and Proactive Solutions
 
-### 1. Optimizing Support for Implementing Smart Contract Events
-- **Challenge:** Redis PubSub functionalities were evolving, requiring an alternative approach for smart contract event handling.
-- **Solution:** Designed and implemented a polling-based approach based on feedback from the Qubic core team. This scalable and reliable framework is now available for future use.
+During the project, we encountered opportunities to address and enhance areas that required further refinement:
 
-### 2. Improving the Testing Environment
-- **Challenge:** The initial testing setup lacked clarity and accessibility, hindering efficient development.
-- **Solution:** Developed a dedicated local RPC solution and comprehensive configuration guides, enabling easier and more efficient testing for all developers.
+### 1. Optimizing Support for Implementing Smart Contract Events:
+- While Redis PubSub functionalities were evolving, our team explored alternative methods, eventually designing and implementing a polling approach based on the feedback received from the Qubic core team. This solution required significant development effort but provided a scalable and reliable framework for future use.
 
-### 3. Evolving Testnet Performance and Functionalities
-- **Challenge:** Early-stage testnet features and stability required constant adaptation.
-- **Solution:** Addressed evolving functionalities by creating solutions that ensure progress in a dynamic environment. These solutions are replicable for other projects and beneficial to the broader ecosystem.
+### 2. Improving the Testing Environment:
+- We found that the Qubic testing setup offered room for enhancement, particularly around clarity and accessibility. As we couldn´t test as we expected, we invested time in developing a dedicated local RPC solution and creating configuration guides, which now provide a solid foundation for future development and testing. This effort and knowledge can be shared so other developers will be able to set up their testing more easily and efficiently.   
+
+### 3. Evolving Testnet Performance and Functionalities:
+- As the testnet was in its early stages, we took the initiative to address and adapt to evolving features and stability. Our efforts ensured progress even in a dynamic environment, and our implemented solutions have established a replicable framework for other projects. Once again, this effort and knowledge can be shared so other developers will be able to set up their testing more easily and efficiently.
 
 ---
 
 ## Contributions Beyond the Scope
 
-### 1. Creation of Comprehensive Documentation
-- Detailed guides for Smart Contract setup, testing, virtual machine deployment, RPC configuration, and cross-platform compatibility.
+To ensure the success of the project and enhance the Qubic ecosystem, Vottun undertook significant additional work:
 
-### 2. Establishment of a Stable Testing Environment
-- Deployed a dedicated RPC to provide a reliable framework for future development and testing.
+### 1. Creation of Comprehensive Documentation:
+- We developed detailed guides for Smart Contract setup and testing, including virtual machine deployment, RPC configuration, and cross-platform compatibility solutions. These resources provide long-term value to the ecosystem.
 
-### 3. Polling System Implementation
-- Designed and validated a polling-based event-listening system to facilitate efficient Smart Contract interaction.
+### 2. Establishment of a Stable Testing Environment:
+- Deploying a dedicated RPC created a reliable framework for testing and future development, directly addressing the needs of developers.
 
-### 4. Framework for Long-Term Development
-- Contributed technical solutions that strengthen the Qubic ecosystem and provide a replicable model for future projects.
+### 3. Polling System Implementation:
+- Designing and validating a polling-based event-listening system allowed for efficient Smart Contract interaction and provided a versatile solution for the ecosystem.
+
+### 4. Framework for Long-Term Development:
+- The technical solutions we contributed have strengthened the Qubic ecosystem providing a replicable model for future projects on the platform.
 
 ---
+
+For this contributions, the developer effort was documented as follows:
 
 ## Developer Effort Summary
-| Task                              | Hours  |
-|-----------------------------------|--------|
-| Qubic – C++ Smart Contract        | 37 hrs |
-| EVM - Interaction with Qubic      | 15 hrs |
-| Documentation & Backend           | 100 hrs|
-| **Total Hours**                   | 152 hrs|
 
-- **Hourly Rate:** $80 USD/hour
-- **Total Grant Request:** $12,160 USDT
+- **Qubic – C++ smart contract:** 37 hrs  
+- **EVM - Interaction with Qubic:** 15 hrs  
+- **Documentation & Backend:** 100 hrs  
+
+### Total grant request: 152 hrs (average $80 USD/hour) = $12,160 USDT  
 
 ---
 
-## Grant Support Request
+## Request for Grant Support
 
-We request a grant to recognize and support the additional work contributed by Vottun. These contributions have:
-- Enhanced the usability, accessibility, and scalability of the Qubic ecosystem.
-- Addressed unforeseen challenges while creating long-term technical resources.
+We respectfully request a grant to recognize and support the additional work Vottun has contributed to the Qubic Foundation. These efforts were critical in overcoming unexpected obstacles and creating a technical foundation that enhances the usability, accessibility, and scalability of the Qubic ecosystem.
 
 The grant will enable us to:
-1. Refine and expand documentation for broader ecosystem use.
-2. Share additional tools aligned with developer community needs.
-3. Continue developing and supporting innovative use cases within the ecosystem.
+1. Continue refining the documentation and solutions we’ve created for broader ecosystem use.
+2. Further contribute to Qubic by sharing additional tools aligned with developer community needs.
+3. Support the ongoing development and adoption of innovative use cases within the ecosystem.
 
 ---
 
 ## A Positive Future for Qubic
 
-Vottun’s contributions have:
-- Improved functionality within the Qubic ecosystem.
-- Established key technical resources.
-- Demonstrated a commitment to the growth and success of the platform.
+The evolving challenges we addressed provided an opportunity for Vottun to deliver significant value beyond the original project scope. Our contributions have improved the Qubic ecosystem’s functionality, established key technical resources, and demonstrated our commitment to the platform’s growth and success.
 
-We are confident that this grant will empower us to make further meaningful contributions to the Qubic Foundation and the broader Web3 community.
+We are confident that the grant will help us continue making meaningful contributions to the Qubic Foundation and the broader Web3 community.
 
 ---
 
 Thank you for considering our request.
-
