@@ -45,9 +45,10 @@ For this contributions, the developer effort was documented as follows:
 
 - **Qubic – C++ smart contract:** 37 hrs  
 - **EVM - Interaction with Qubic:** 15 hrs  
-- **Documentation & Backend:** 100 hrs  
+- **Documentation & Backend:** 100 hrs
+- **Setting Up the Node for Testing:** 75 hrs
 
-### Total grant request: 152 hrs (average $80 USD/hour) = $12,160 USDT  
+### Total grant request: 152 hrs (average $80 USD/hour) = $18,160 USDT  
 
 ---
 
